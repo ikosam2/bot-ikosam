@@ -8,7 +8,7 @@ module.exports = {
     },
 
     discord: {
-        token: 'NzkzNDEyMDczMjY2NjEwMTk4.X-r4kw.-IHbcil5h_4NvjObEg7c3WY-w9U',
+        token: 'NzkzNjU3MjQwMjIwODYwNDI2.X-vc5w.Yj44qvCy70eZQmujwYSAlGgYjrE',
         prefix: 'PREFIX',
         activity: 'Genshin Impact',
     },

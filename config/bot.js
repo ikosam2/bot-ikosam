@@ -10,7 +10,7 @@ module.exports = {
     discord: {
         token: 'NzkzNDEyMDczMjY2NjEwMTk4.X-r4kw.-IHbcil5h_4NvjObEg7c3WY-w9U',
         prefix: 'PREFIX',
-        activity: 'ACTIVITY',
+        activity: 'Genshin Impact',
     },
 
     filters: ['8D', 'gate', 'haas', 'phaser', 'treble', 'tremolo', 'vibrato', 'reverse', 'karaoke', 'flanger', 'mcompand', 'pulsator', 'subboost', 'bassboost', 'vaporwave', 'nightcore', 'normalizer', 'surrounding'],
